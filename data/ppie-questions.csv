@@ -1,0 +1,143 @@
+,Question Number,Question,Variable
+0,1,"In this survey, we want to hear views from parents who gave birth, and partners. Are you the birthing parent or the partner?",birthing_parent_or_partner
+1,2,Which best describes your gender?,gender
+2,3,Which of these describes you best?,pregnancy_stage
+3,4,Roughly how many weeks pregnant were you when you (or your partner) notified this pregnancy to a health professional?,anc_weeks_pregnant_notified
+4,5,Where did you primarily get information about your options for where to give birth?,anc_birth_info_source
+5,6,How satisfied were you with the information you got from your healthcare provider about your birth options?,anc_satisfaction_birth_info
+6,7,"At your antenatal appointments, how often did you see or speak to the same health professional?",anc_repeat_provider_frequency
+7,8,How did the majority of your antenatal appointments take place?,anc_antenatal_appointment_mode
+8,9,How easy was it for you to attend your antenatal appointments?,anc_antenatal_attendance_ease
+9,10,Please tell us why it was not easy to access your appointments.,anc_antenatal_access_issues
+10,11,"During your antenatal appointments, did your health professional appear to be aware of your medical history?",anc_provider_aware_medical_history
+11,12,"During your antenatal appointments, were you given enough time to ask questions about pregnancy, birth and parenting?",anc_antenatal_question_time
+12,13,"During your antenatal appointments, did you feel involved in decisions about your care?",anc_antenatal_decision_involvement
+13,14,"During your antenatal care, did you receive help you needed with your mental health?",anc_mental_health_support_antenatal
+14,15,"If you have a long-term health condition, did you receive information on how this would affect your pregnancy?",anc_long_term_condition_info
+15,16,"If you had a pregnancy related health condition, did you receive information on how this would affect your pregnancy?",anc_pregnancy_condition_info
+16,17,"During your pregnancy, did you receive helpful information about feeding your baby?",anc_baby_feeding_info_pregnancy
+17,18,Did you have confidence and trust in the staff caring for you during your antenatal care?,anc_antenatal_staff_trust
+18,19,"If you raised a concern during your antenatal care, did you feel that it was taken seriously?",anc_antenatal_concern_serious
+19,20,How easy was it for you to attend antenatal appointments with your partner?,anc_partner_antenatal_difficulty
+20,21,Please tell us why it was not easy to access your appointments.,anc_antenatal_access_difficulty_reason
+21,22,"During the antenatal period, did you receive help you needed with your mental health?",anc_mental_health_support_antenatal_period
+22,23,Did you receive helpful information about feeding your baby?,anc_baby_feeding_info
+23,24,My health professional made assumptions about me,anc_provider_assumptions
+24,25,I encountered challenges in asking my health professional for help.,anc_provider_help_challenges
+25,26,It was difficult to find resources that represented me,anc_resource_represent_difficulty
+26,27,It was difficult to find the information I needed,anc_info_find_difficulty
+27,28,I experienced discrimination while accessing healthcare services.,anc_healthcare_discrimination
+28,29,It was difficult for me to get to routine appointments,anc_routine_appointment_difficulty
+29,30,I moved house during this time and this made it difficult to get the care I needed.,anc_moved_house_care_difficulty
+30,31,It was difficult balancing pregnancy whilst caring for my older children.,anc_pregnancy_balance_care_children
+31,32,My health professional didn't respect me.,anc_provider_disrespect
+32,33,My friends or family didn't support me.,anc_lack_family_support
+33,34,I had relationship challenges.,anc_relationship_challenges
+34,35,It was difficult balancing pregnancy alongside work or study.,anc_pregnancy_balance_work_study
+35,36,I felt financially insecure.,anc_financial_insecurity
+36,37,I was worried about returning to work or study after parental leave,anc_work_study_return_worry
+37,38,Negative views about pregnancy from my peers affected me.,anc_peer_pregnancy_negative_views
+38,39,Family views and pressures about pregnancy affected me,anc_family_pregnancy_pressures
+39,40,I experienced mental health challenges.,anc_mental_health_challenges
+40,41,I experienced physical health challenges.,anc_physical_health_challenges
+41,42,I was worried about my baby's health or birth complications,anc_baby_health_birth_worry
+42,43,Please share any other challenges or experiences not covered above.,anc_additional_challenges_experiences
+43,44,"Shortly before the birth of your baby, how empowered did you feel in your ability to take care of your child?",anc_birth_empowerment
+44,45,"Thinking about your care during labour and birth, did you feel involved in decisions about your care?",anc_labour_decision_involvement
+45,46,"After your baby was born, did you have the opportunity to ask questions about your labour and birth?",anc_birth_question_opportunity
+46,47,"One a scale of 1-5, how well do you think your questions were answered?",anc_question_response_scale
+47,48,At what gestational age was your baby born? (in weeks),gestational_age_weeks
+48,49,How was your baby born?,birth_type
+49,50,"Thinking about the care you received immediately after the birth of your baby, were you given the information you needed about postnatal care and recovery?",birth_postnatal_info_sufficiency
+50,51,"Thinking about the care you received immediately after the birth of your baby, were you treated with kindness and understanding?",birth_postnatal_kindness
+51,52,"In the first few days of life, how was your baby fed?",birth_early_life_feeding
+52,53,Were your feelings about how you wanted to feed your baby respected by healthcare professionals?,birth_feeding_preferences_respected
+53,54,"Thinking about labour and birth, did you have the knowledge you needed, to understand decisions being made about your partner's or baby's care?",birth_labour_birth_knowledge
+54,55,"After your baby was born, did you have the opportunity to ask questions about the birth of your baby?",birth_baby_birth_question_opportunity
+55,56,"One a scale of 1-5, how well do you think your questions were answered?",birth_question_response_quality
+56,57,At what gestational age was your baby born? (in weeks),partner_gestational_age_weeks
+57,58,How was your baby born?,partner_birth_type
+58,59,"Thinking about the care you and your partner received immediately after the birth of your baby, were you given the information you needed about postnatal care and recovery for your partner?",partner_postnatal_info
+59,60,"Thinking about the care you and your partner received immediately after the birth of your baby, were you treated with kindness and understanding?",partner_postnatal_kindness
+60,61,"In the first few days of life, how was your baby fed?",partner_early_life_feeding
+61,62,"Thinking about your postnatal care, did you feel involved in decisions about your care?",postnatal_decision_involvement
+62,63,"If your baby needed medical care after birth, did you feel involved in decisions about their care?",postnatal_baby_medical_care_decisions
+63,64,"If you contacted a health professional for support, were you given the help you needed?",postnatal_professional_support_help
+64,65,Since your baby’s birth have you been visited at home by a health professional?,postnatal_home_professional_visit
+65,66,"At your routine appointments, or during your baby's care, how often did you see or speak to the same health professional?",postnatal_routine_appointments_provider
+66,67,Would you have preferred to have seen or spoken to a health professional…,postnatal_provider_preference
+67,68,Did the health professional(s) that you saw or spoke to appear to be aware of the medical history of you and your baby?,postnatal_provider_medical_history_awareness
+68,69,Did you have confidence and trust in the health professionals you saw or spoke to after going home?,postnatal_home_provider_trust
+69,70,Were you given information about any changes you might experience to your mental health after having your baby?,postnatal_mental_health_info_postpartum
+70,71,Did you receive care and support you needed with regards to your mental health?,postnatal_mental_health_support_needed
+71,72,Were you given information about your own physical recovery after the birth?,postnatal_physical_recovery_info
+72,73,How useful was this information?,postnatal_physical_recovery_info_useful
+73,74,"When it came to feeding your baby, where did you access support and information?",postnatal_feeding_support_source
+74,75,How useful was this information?,postnatal_feeding_support_info_useful
+75,76,Have you ever attended a breastfeeding or infant feeding class?,postnatal_feeding_class_attendance
+76,77,Was this breastfeeding or infant feeding class useful?,postnatal_feeding_class_usefulness
+77,78,How helpful was this information?,postnatal_info_helpfulness
+78,79,Did the health professional(s) that you saw or spoke to appear to be aware of the medical history of you and your baby?,postnatal_provider_medical_history_awareness_2
+79,80,Were you given information about any changes you might experience to your mental health after having your baby?,partner_pnc_postnatal_mental_health_info_postpartum_2
+80,81,Did you receive care and support you needed with regards to your mental health?,partner_pnc_mental_health_care_support
+81,82,Were you given information about your own physical recovery after the birth?,partner_pnc_physical_recovery_info_2
+82,83,How useful was this information?,partner_pnc_physical_recovery_info_useful_2
+83,84,"When it came to feeding your baby, where did you access support and information?",partner_pnc_feeding_support_info
+84,85,How useful was this information?,partner_pnc_feeding_support_info_usefulness
+85,86,Have you ever attended a breastfeeding or infant feeding class?,partner_pnc_feeding_class_attendance
+86,87,Was this breastfeeding or infant feeding class useful?,partner_pnc_feeding_class_usefulness
+87,88,Please tell us about any challenges or experiences that weren't covered here,partner_pnc_additional_challenges_experiences_2
+88,89,Were you given information about any changes you might experience to your mental health after having your baby?,partner_pnc_postnatal_mental_health_info
+89,90,"When it came to feeding your baby, where did you access support and information?",partner_pnc_feeding_support_info
+90,91,How useful was this information?,partner_pnc_feeding_info_usefulness
+91,92,"If, during evenings, nights, or weekends, you needed support or advice about feeding your baby, where did you access this out-of-hours support?",partner_pnc_out_of_hours_feeding_support
+92,93,How useful was this information?,partner_pnc_out_of_hours_info_usefulness
+93,94,In the six weeks after the birth of your baby did you receive advice from health professionals about your baby’s development?,partner_pnc_postnatal_baby_development_advice
+94,95,How useful was this information?,partner_pnc_baby_development_advice_usefulness
+95,141,Token,token
+96,142,Submitted at,submitted_at
+97,96,Did you provide any breastmilk to your baby within the first 48 hours after birth?,initial_breastfeeding
+98,97,Can you tell us about why you didn't breastfeed?,non_breastfeeding_reason
+99,98,How long after birth did you start breastfeeding?,breastfeeding_start_time
+100,99,Are you still providing your baby with breastmilk (either direct feeding or expressing)?,current_breastfeeding_status
+101,100,For how long did you breastfeed?,breastfeeding_duration
+102,101,Could you please tell us about how you came to stop breastfeeding?,breastfeeding_stop_reason
+103,102,Did your baby receive any breastmilk within the first 48 hours after birth?,baby_initial_breastfeeding
+104,103,Can you tell us about why your partner didn't breastfeed?,partner_non_breastfeeding_reason
+105,104,Is your baby still receiving breastmilk (either direct feeding or expressing)?,baby_current_breastfeeding_status
+106,105,Could you please tell us about how your partner came to stop breastfeeding?,partner_breastfeeding_stop_reason
+107,106,My health professional made assumptions about me,pnc_provider_assumptions
+108,107,I found it difficult to ask my health professional for help.,pnc_provider_help_difficulty
+109,108,It was difficult to find resources that represented me,pnc_resource_representation_difficulty
+110,109,It was difficult to find the information I needed,pnc_info_access_difficulty
+111,110,I experienced discrimination while accessing healthcare services.,pnc_healthcare_discrimination
+112,111,Attending appointments was difficult for me.,pnc_appointment_difficulty
+113,112,I moved house and this made it difficult to get the care I needed.,pnc_house_move_care_difficulty
+114,113,It was difficult caring for my baby whilst also caring for my older children.,pnc_baby_care_difficulty_with_older_children
+115,114,My health professional didn't respect me.,pnc_provider_disrespect
+116,115,My friends or family didn't support me.,pnc_family_support_lack
+117,116,I had relationship challenges.,pnc_relationship_issues
+118,117,It was difficult balancing parenting alongside work or study.,pnc_parenting_work_study_balance_difficulty
+119,118,I felt financially insecure during the time my baby was 0-2 years old.,pnc_financial_insecurity
+120,119,Negative views from peers about my parenting choices affected me.,pnc_peer_parenting_negative_views
+121,120,Negative family views and pressures about my parenting choices affected me,pnc_family_parenting_views_pressure
+122,121,I experienced mental health challenges,pnc_mental_health_challenges
+123,122,I experienced physical health challenges,pnc_physical_health_challenges
+124,123,I was worried about my baby's health,pnc_baby_health_worry
+125,124,Please share any other challenges or experiences not covered above.,pnc_additional_experiences
+126,125,What year were you born?,demo_birth_year
+127,126,How many pregnancies have you or your partner had before this one?,demo_previous_pregnancies_count
+128,127,We understand that some families are sadly affected by pregnancy or infant loss. How many children do you have?,demo_current_children_count
+129,128,"Do you (or your partner, if they were the one giving birth) have any of the following physical or mental health conditions, disabilities or illnesses that have lasted or are expected to last 12 months or more and negatively impact on day-to-day l...",demo_long_term_health_issues
+130,129,"Did you (or your partner, if they were pregnant) have any of the following pregnancy-related health conditions during this pregnancy?",demo_pregnancy_related_conditions
+131,130,What is your religion?,demo_religion
+132,131,Is English your main language?,demo_main_language_english
+133,132,Which languages do you most frequently use for conversation during the course of your day?,demo_frequent_conversation_languages
+134,133,Which languages can you read well?,demo_readable_languages
+135,134,What is your post code?,demo_post_code
+136,135,What is your ethnic group?,demo_ethnic_group
+137,136,Are you a UK Citizen?,demo_uk_citizenship
+138,137,Have you used the Anya app during your pregnancy or after childbirth?,demo_anya_app_usage
+139,138,Is there anything else you'd like to share about your maternity experience?,demo_additional_maternity_experience
+140,139,"As we progress with this and other exciting projects, we are keen to keep hearing from our users. Would you be happy for us to contact you to support Anya's future activities?",demo_anya_future_contact
+141,140,What is your email address,demo_email_address

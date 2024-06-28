@@ -10,16 +10,16 @@ This repository contains the raw data and Jupyter Notebooks for the preliminary 
 │   └── 2019-deprivation-by-postcode.xlsx  (Postcode to IMD matching)
 ├── output
 │   ├── 0_ppie-insights.pdf                (Summary and detailed insights)
-│   ├── 1_ppie-preliminary-data-analysis_ethnic.pdf (Analysis on ethnicity)
+│   ├── 1_ppie-data-analysis_ethnic.pdf (Analysis on ethnicity)
 │   └── ...                                (Other detailed analyses)
 └── script
 ├── 0_ppie_data_cleaning.ipynb            (Data cleaning notebook)
-├── 1_ppie-preliminary-data-analysis_ethnic.ipynb  (Analysis on ethnicity)
+├── 1_ppie-data-analysis_ethnic.ipynb  (Analysis on ethnicity)
 └── ...                                    (Other analysis notebooks)
 
 ## Additional Files
 
-*   `8_convert_ppie_notebooks_jupyter_to_pdf.bat`: Batch file to convert Jupyter Notebooks to PDF format.
+*   `10_convert_ppie_notebooks_jupyter_to_pdf.bat`: Batch file to convert Jupyter Notebooks to PDF format.
 
 ## Usage
 
@@ -30,4 +30,4 @@ This repository contains the raw data and Jupyter Notebooks for the preliminary 
 5.  **Generate PDF Reports (Optional):**
     *   Open a terminal/command prompt.
     *   Navigate to the repository's root directory.
-    *   Run the batch file: `8_convert_ppie_notebooks_jupyter_to_pdf.bat`
+    *   Run the batch file: `10_convert_ppie_notebooks_jupyter_to_pdf.bat`
